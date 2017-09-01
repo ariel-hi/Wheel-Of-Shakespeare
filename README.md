@@ -1,9 +1,10 @@
 # Wheel-Of-Shakespeare
 
-NOTE:
+
+Before running in cmd, you may need to change the active console code page for the ASCII art to function properly.  
+Do this by entering ```chcp 65001``` in the console.  
 
 
-Before running in cmd, you may need to change the active console code page for the ASCII art to function properly.
+Store the .txt (containing Shakespeare lines) in the same directory as the .py.
 
-
-Do this by entering ```chcp 65001``` in the console.
+If you want to rename the .txt, edit the .py accordingly (Line 172).
