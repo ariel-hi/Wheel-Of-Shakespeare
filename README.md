@@ -18,5 +18,6 @@ If you want to rename the .txt, edit the .py accordingly (Line 172).
 1. Add a scoreboard
 2. Add Bankrupt / Lose a Turn spins
 3. Remove punctuation requirement for solving the puzzle
+
 ![Screenshot](https://i.imgur.com/6skFq2o.png)
 
